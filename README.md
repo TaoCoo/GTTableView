@@ -1,2 +1,2 @@
 # GTTableView
-对tableView的两个代理进行进一步的封装，不用再去无止境的写Delegate，DataSource了，将TableView和Controller彻底的解耦合
+对tableView的两个代理进行进一步的封装，不用再去无止境的写Delegate，DataSource了，将TableView和Controller彻底的解耦合。此版本只是版本基础搭建，后期更新会加上Model、刷新。
